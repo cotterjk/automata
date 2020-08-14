@@ -1,1 +1,1 @@
-An elementary cellular automation is a row on on/off cells, with each new generation determined by aits previous state and a set of rules. My automata runs in the terminal with parameters based on user input.
+An elementary cellular automation is a row on on/off cells, with each new generation determined by its previous state and a set of rules. My automata runs in the terminal with parameters based on user input.
